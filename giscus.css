@@ -3,7 +3,7 @@
  * https://github.com/primer/primitives/blob/main/LICENSE
  */
 
-main {
+ main {
   --color-prettylights-syntax-comment: #768390;
   --color-prettylights-syntax-constant: #6cb6ff;
   --color-prettylights-syntax-entity: #dcbdfb;
@@ -62,7 +62,7 @@ main {
   --color-canvas-default: #22272e;
   --color-canvas-overlay: #2d333b;
   --color-canvas-inset: #1c2128;
-  --color-canvas-subtle: #252d38;
+  --color-canvas-subtle: #252D38;
   --color-border-default: #444c56;
   --color-border-muted: #373e47;
   --color-neutral-muted: rgb(99 110 123 / 40%);
