@@ -2,4 +2,4 @@
 
 블로그: <https://ywbird.github.io>
 
-댓글 기능은 [`Giscus`](https://github.com/giscus/giscus/)를 사용하고 있습니다.
+댓글 기능은 [`Giscus`](https://github.com/giscus/giscus/)또는 [utterances](https://utteranc.es/)를 사용하고 있습니다.
